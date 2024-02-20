@@ -1,5 +1,5 @@
-import { format, formatDistanceToNow } from "date-fns"
-import ptBR from "date-fns/locale/pt-BR"
+import { format,formatDistanceToNow} from "date-fns"
+import { ptBR } from "date-fns/locale/pt-BR"
 
 import style from "./Post.module.css"
 
