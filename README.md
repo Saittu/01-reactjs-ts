@@ -4,10 +4,12 @@
 project carried out together with Diego Fernandes in the introduction to Reactjs course at ignite
 </p>
 
+<p align="center">🤖 see the website live: https://saittu.github.io/01-reactjs-ts/</p>
+
 <p align="center">
     <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Projeto">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Libraries">licenses</a>
+    <a href="#-Projects">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Licenses">licenses</a>
 </p>
 
 <p align="center">
