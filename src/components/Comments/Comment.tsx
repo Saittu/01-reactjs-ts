@@ -29,7 +29,7 @@ export function Comment({ content, onDeleteComment }: CommentsProps) {
                 <div className={style.CommentContent}>
                     <header>
                         <div className={style.AuthorAndTime}>
-                            <strong>Devon Lane</strong>
+                            <strong>Claudio Pires</strong>
 
                             <time title="February 15th at 11 am" dateTime="2024-02-15 09:59:23">Cerca de 1h atrás</time>
 
